@@ -8,7 +8,6 @@ Declarando sempre as propriedades como sendo privadas inicialmente
 Problemas de duplicação de código
 Problemas de código extremamente compartilhado
 
-
 ## O que aprendemos nessa aula 02 herança:
 
 Especializando código
@@ -27,8 +26,6 @@ Palavra-chave Super
 
 Método e propriedades privadas e protegidas
 
-
-
 ## O que aprendemos nessa aula 03 classes abstratas:
 
 Como o JS sabe quem está sendo instanciado.
@@ -43,11 +40,6 @@ Métodos abstratos
 
 Erros em tempo de execução
 
-
-
 ## O que aprendemos nessa aula 04 sistema interno:
-
-
-
 
 ## O que aprendemos nessa aula 05 interfaces e Ducktype:
