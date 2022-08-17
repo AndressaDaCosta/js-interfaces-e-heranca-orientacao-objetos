@@ -42,4 +42,14 @@ Erros em tempo de execução
 
 ## O que aprendemos nessa aula 04 sistema interno:
 
+
+Revisão de herança,boas práticas de código e encapsulamento
+
+Polimorfismo
+
+Métodos estáticos
+
+Maneiras de tratar objetos de diferentes tipos de maneira parecida
+
+
 ## O que aprendemos nessa aula 05 interfaces e Ducktype:
