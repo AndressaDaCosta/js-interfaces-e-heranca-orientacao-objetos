@@ -53,3 +53,13 @@ Maneiras de tratar objetos de diferentes tipos de maneira parecida
 
 
 ## O que aprendemos nessa aula 05 interfaces e Ducktype:
+
+operador in
+
+operador instanceOf
+
+Como proteger nossos sistemas
+
+interfaces padronizadas
+
+Ducky Type
